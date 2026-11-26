@@ -1,7 +1,7 @@
 # Compositional Reinforcement Learning in Continuous Goal-Spaces
 
 **Author:** Zukisa Mbuli  
-**Degree:** Master of Science in Computer Science  
+**Degree:** Master of Science in Computer Science (with Distinction) 
 **Institution:** School of Computer Science & Applied Mathematics, University of the Witwatersrand, Johannesburg  
 **Supervisors:** Prof. Benjamin Rosman, Prof. Steve James, Dr. Geraud Nangue Tasse  
 **Date:** September 2026  
